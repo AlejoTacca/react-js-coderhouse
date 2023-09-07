@@ -1,0 +1,14 @@
+/* CartWidget.css */
+.cart-widget {
+    display: flex;
+    align-items: center;
+    gap: 8px;
+    cursor: pointer;
+  }
+  
+  .cart-widget i {
+    font-size: 24px;
+    color: #239e40; /* Cambia el color del ícono del carrito según tus preferencias */
+  }
+  
+  
